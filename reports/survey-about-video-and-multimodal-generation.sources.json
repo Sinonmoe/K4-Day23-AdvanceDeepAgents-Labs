@@ -1,0 +1,106 @@
+[
+  {
+    "n": 1,
+    "id": "10.1145/3656580",
+    "url": "https://dl.acm.org/doi/10.1145/3656580",
+    "title": "Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions",
+    "date": "2024-06-22",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2501.04641v2",
+    "url": "https://arxiv.org/pdf/2501.04641v2.pdf",
+    "title": "A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2505.02567v1",
+    "url": "https://arxiv.org/html/2505.02567v1",
+    "title": "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2026.findings-acl.1853",
+    "url": "https://aclanthology.org/2026.findings-acl.1853.pdf",
+    "title": "Towards Unified Multimodal Large Language Models: More than A Survey",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2604.06757",
+    "url": "https://huggingface.co/papers/2604.06757",
+    "title": "FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+    "date": "2026-04-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2310.08949",
+    "url": "https://huggingface.co/papers/2310.08949",
+    "title": "Making Multimodal Generation Easier: When Diffusion Models Meet LLMs",
+    "date": "2023-10-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "10.1007/s10462-025-11331-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "title": "Video diffusion generation: comprehensive review and open problems",
+    "date": "2025-08-20",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2604.06339",
+    "url": "https://arxiv.org/abs/2604.06339",
+    "title": "Evolution of Video Generative Foundations",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "10.1007/s10462-026-11699-z",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11699-z",
+    "title": "Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models",
+    "date": "2026-09-13",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2402.03040",
+    "url": "https://huggingface.co/papers/2402.03040",
+    "title": "InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2405.13195",
+    "url": "https://huggingface.co/papers/2405.13195",
+    "title": "CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers",
+    "date": "2024-05-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2610.11993",
+    "url": "https://arxiv.org/abs/2610.11993",
+    "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]

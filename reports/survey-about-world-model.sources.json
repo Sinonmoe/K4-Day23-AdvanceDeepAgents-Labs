@@ -1,0 +1,106 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "N/A",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2608.13456",
+    "url": "https://arxiv.org/abs/2608.13456",
+    "title": "A Unifying Perspective on Causal World Models",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.18690",
+    "url": "https://huggingface.co/papers/2602.18690",
+    "title": "Neural Fields as World Models",
+    "date": "2026-02-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2604.16592",
+    "url": "https://huggingface.co/papers/2604.16592",
+    "title": "Human Cognition in Machines: A Unified Perspective of World Models",
+    "date": "2026-04-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2606.18375",
+    "url": "https://huggingface.co/papers/2606.18375",
+    "title": "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation",
+    "date": "2026-06-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2601.12538",
+    "url": "https://huggingface.co/papers/2601.12538",
+    "title": "Agentic Reasoning for Large Language Models",
+    "date": "2026-01-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2605.03903",
+    "url": "https://huggingface.co/papers/2605.03903",
+    "title": "Benchmarking Large Multimodal Models for Literacy in Real-world Document Processing",
+    "date": "2026-05-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2604.22748",
+    "url": "https://arxiv.org/html/2604.22748v3",
+    "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+    "date": "2026-06-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/pdf/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "N/A",
+    "url": "https://world-models.io/en/benchmarks/",
+    "title": "World Model Benchmarks by Family",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "N/A",
+    "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
+    "title": "Introducing the V-JEPA 2 world model and new benchmarks",
+    "date": "2025-06-11",
+    "source": "web"
+  }
+]
